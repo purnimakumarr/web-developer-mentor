@@ -45,4 +45,4 @@ In this challenge, you'll create a notification menu window. It contains three m
 ## Author
 
 - Website - [Purnima Kumar](https://purnimakumarr.github.io/)
-- Twitter - [@yourusername](https://www.twitter.com/purnimakumarr)
+- Twitter - [@purnimakumarr](https://www.twitter.com/purnimakumarr)
