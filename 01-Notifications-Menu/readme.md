@@ -22,11 +22,11 @@ In this challenge, you'll create a notification menu window. It contains three m
 
 #### Desktop
 
-![](screenshots\desktop.png)
+![](screenshots/desktop.png)
 
 #### Mobile
 
-![](screenshots\mobile.png)
+![](screenshots/mobile.png)
 
 ### Links
 
