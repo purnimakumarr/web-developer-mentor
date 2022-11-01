@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  --neon-blue: #5451fa;
+  --pale-lavender: #dcdafe;
+  --armadillo: #4a4a4a;
+  --aluminum: #979797;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
