@@ -30,7 +30,7 @@ In this challenge, you'll create a notification menu window. It contains three m
 
 ### Links
 
-- Solution URL: [View code]()
+- Solution URL: [View code](https://github.com/purnimakumarr/web-developer-mentor/tree/main/01-Notifications-Menu)
 - Live Site URL: [View site](https://notifications-menu-purnima.netlify.app/)
 
 ## My process
