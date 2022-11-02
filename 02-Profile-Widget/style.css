@@ -17,4 +17,176 @@ html {
 
 body {
   font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  background-color: var(--neon-blue);
+
+  display: grid;
+  height: 100vh;
+  place-items: center;
+  padding: 2.4rem;
+}
+
+.profile-card {
+  max-width: 30rem;
+  background-color: #fff;
+  padding: 2.4rem;
+  border-radius: 23px;
+}
+
+.profile-header {
+  display: flex;
+  gap: 1.2rem;
+  justify-content: flex-end;
+  margin-bottom: 1.6rem;
+}
+
+.profile-header .icon {
+  width: 2.4rem;
+  height: 2.4rem;
+  transition: all 0.3s;
+}
+
+.profile-header .icon-tabler-bell-ringing:hover {
+  stroke: var(--aluminum);
+}
+
+.profile-img-wrapper {
+  position: relative;
+  margin-bottom: 5.6rem;
+}
+
+.bg-img {
+  width: 100%;
+  height: auto;
+  border-radius: 11px;
+}
+
+.avatar {
+  width: 35%;
+  height: auto;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.name {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 1.2rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}
+
+.icon-tabler-check {
+  width: 1.6rem;
+  height: 1.6rem;
+  padding: 2px;
+  background-color: var(--neon-blue);
+  border-radius: 50%;
+  stroke: #fff;
+}
+
+.description {
+  text-align: center;
+  font-size: 1.2rem;
+  color: var(--armadillo);
+  margin-bottom: 2.4rem;
+}
+
+.profile-stats {
+  display: grid;
+  grid-template-areas:
+    "a c e"
+    "b d f";
+  row-gap: 0.4rem;
+  justify-items: center;
+
+  margin-bottom: 2.4rem;
+}
+
+.following-count {
+  grid-area: a;
+}
+
+.following-text {
+  grid-area: b;
+}
+
+.followers-count {
+  grid-area: c;
+}
+
+.followers-text {
+  grid-area: d;
+}
+
+.posts-count {
+  grid-area: e;
+}
+
+.posts-text {
+  grid-area: f;
+}
+
+.profile-stats li {
+  list-style: none;
+}
+
+.profile-stats li:nth-child(even) {
+  font-size: 1.2rem;
+  color: var(--armadillo);
+}
+
+.profile-stats li:nth-child(odd) {
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+.followers-count {
+  color: var(--neon-blue);
+}
+
+.btn-follow-me {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.6rem 3.2rem;
+  width: 100%;
+  border-radius: 9px;
+  border: none;
+  cursor: pointer;
+  font-size: 1.4rem;
+  color: #fff;
+  background-color: var(--neon-blue);
+  margin-bottom: 2.4rem;
+  transition: all 0.3s;
+}
+
+.btn-follow-me:hover {
+  color: var(--neon-blue);
+  background-color: var(--pale-lavender);
+}
+
+.about-me li {
+  list-style: none;
+
+  display: flex;
+  gap: 1.2rem;
+  align-items: center;
+  color: var(--armadillo);
+  font-size: 1.2rem;
+}
+
+.about-me li:not(:last-child) {
+  margin-bottom: 1.2rem;
+}
+
+.about-me li svg {
+  width: 1.6rem;
+  height: 1.6rem;
 }
