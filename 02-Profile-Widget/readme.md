@@ -1,6 +1,6 @@
 # Web Developer Mentor - Profile Widget solution
 
-This is a solution to the [Notifications menu challenge on Web Developer Mentor](https://webdevelopermentor.com/challenges/profile-widget/center).
+This is a solution to the [Profile Widget challenge on Web Developer Mentor](https://webdevelopermentor.com/challenges/profile-widget/center).
 
 ## Table of contents
 
