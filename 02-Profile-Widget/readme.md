@@ -1,28 +1,43 @@
-## Thank you for joining Web Developer Mentor community! 🙏
+# Web Developer Mentor - Profile Widget solution
 
-&nbsp;
+This is a solution to the [Notifications menu challenge on Web Developer Mentor](https://webdevelopermentor.com/challenges/profile-widget/center).
 
-### What to do when you completed the challenge?
+## Table of contents
 
-First you need to make your challenge visible to others. Yoy can do so by uploading it to one of the free static hosting providers. Below is the list of the most popular ones:
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
--   [Netlify](https://www.netlify.com/) - recommended
--   [GitHub Pages](https://pages.github.com/)
--   [Vercel](https://vercel.com)
--   [Google Firebase](https://firebase.google.com/)
--   [Render](https://render.com/)
+## Overview
 
-If you're not familiar with how to set up your deployment process with Netlify, please check this [video tutorial by TraversyMedia](https://www.youtube.com/watch?v=bjVUqvcCnxM&ab_channel=TraversyMedia)
+### The challenge
 
-### How to submit your solution to WebDeveloperMentor
+In this challenge, you'll create a profile notification widget. It contains a header background with an avatar, profile statistics, and links.
 
-In order to submit your solution please follow these steps:
+### Screenshot
 
-1. Go to 'Web developer mentor' [submit challenge solution page](https://webdevelopermentor.com/solution/create)
-2. Click 'Submit Solution' button next to the challenge.
+![Profile widget in normal state](screenshot.png)
 
-You will be prompted to enter Title, Github repoitory URL, Live preview URL (can be Netlify, Vercel, Github Pages or even your own server), and tell the community what challenges you've faced.
+![Profile widget with active states](screenshot-active-state.png)
 
-### Join our community on Discord
+### Links
 
-~~You can join our [Free Discord Server ](https://discord.com) if you want communicate with other members or ask questions regarding your challenges.~~
+- Solution URL: [View code](https://github.com/purnimakumarr/web-developer-mentor/tree/main/02-Profile-Widget)
+- Live Site URL: [View site](https://profile-widget-purnima.netlify.app)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- CSS Flexbox
+
+## Author
+
+- Website - [Purnima Kumar](https://purnimakumarr.github.io/)
+- Twitter - [@purnimakumarr](https://www.twitter.com/purnimakumarr)
